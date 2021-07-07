@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/AOC2020_Day9.dir/AOC2020_Day9.cpp.o -o AOC2020_Day9 
