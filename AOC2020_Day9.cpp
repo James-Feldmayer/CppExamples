@@ -6,8 +6,6 @@
 // #include <ranges>
 
 #include <range/v3/all.hpp>
-// https://github.com/ericniebler/range-v3
-// https://ericniebler.github.io/range-v3/index.html
 
 #include <array>
 #include <optional>
@@ -87,11 +85,8 @@ auto find_addend_pair(Range const &preamble, int const sum)
 
 template <ranges::range Range>
 auto find_invalid(Range const encrypted, int const preamble_length) -> int {
-  auto const preambles =
-      encrypted |
-      ranges::views::sliding(
-          preamble_length) // https://medium.com/outco/how-to-solve-sliding-window-problems-28d67601a66
-      | ranges::views::drop_last(1);
+  auto const preambles = encrypted | ranges::views::sliding(preamble_length) |
+                         ranges::views::drop_last(1);
 
   auto const sums = encrypted | ranges::views::drop(preamble_length);
 
@@ -106,31 +101,17 @@ auto find_invalid(Range const encrypted, int const preamble_length) -> int {
   return (*invalid).second;
 }
 
-/*
-cmake
-"-DCMAKE_TOOLCHAIN_FILE=/home/jamesf/Desktop/vcpkg/scripts/buildsystems/vcpkg.cmake"
-
-cd "/home/jamesf/Desktop/c++ practice/AOC2020_Day9/" && g++ -Wall -Wextra
--Wpedantic -std=c++20 -O0 -g AOC2020_Day9.cpp -o AOC2020_Day9 && time
-"/home/jamesf/Desktop/c++ practice/AOC2020_Day9/"AOC2020_Day9 && rm
-"/home/jamesf/Desktop/c++ practice/AOC2020_Day9/"AOC2020_Day9
-
-how can I clean up the project folder?
-
-add to git
-
-need to turn off clang-tidy its making a mess
-
-add auto push to git on save to keep it all backed up
-*/
-
-// add tl::expected next
-
-// https://juce.com/learn/tutorials
-
 auto const print = [](auto const &...e) { (std::cout << ... << e); };
 
 auto const println = [](auto const &...e) { print(e..., '\n'); };
+
+/*
+clean up the cmake stuff
+
+add auto push to git on save to keep it all backed up
+
+add tl::expected next
+*/
 
 int main() {
 
@@ -149,6 +130,4 @@ int main() {
   constexpr int preamble_length = 25;
 
   println(find_invalid(encrypted, preamble_length));
-
-  // should be using expected instead of optional
 }
