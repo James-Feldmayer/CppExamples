@@ -1,0 +1,32 @@
+
+#include <iostream>
+
+#include <range/v3/all.hpp> 
+// https://github.com/ericniebler/range-v3
+// https://ericniebler.github.io/range-v3/index.html
+
+#include <string>
+
+int main()
+{
+    auto const print = [](auto... e) { ((std::cout << e), ...); };
+
+    auto const println = [&](auto... e) {
+        print(e...);
+        print('\n');
+    };
+    
+    std::string s{"hello"};
+
+    auto window = s
+                | ranges::views::sliding(3) 
+                | ranges::views::drop_last(1); // [[h,e,l],[e,l,l]]
+
+    auto end = s 
+             | ranges::views::drop(3); // [l,o]
+
+    auto input = ranges::views::zip(window, end);
+    
+    for (auto [l, r] : input)
+        println(l, ' ', r);
+}
