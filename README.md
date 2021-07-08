@@ -4,6 +4,8 @@ JUCE
 
 https://www.freecodecamp.org/news/learn-modern-cpp-by-building-an-audio-plugin/
 
+https://juce.com/learn/tutorials
+
 
 Code Reuse 
 
