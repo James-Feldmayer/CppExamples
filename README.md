@@ -19,6 +19,8 @@ Keywords
 
 https://www.freecodecamp.org/news/cpp-keywords-you-should-know/
 
+Which DAW should I use to test my prototype?
+
 1. Find a cofounder, they should have complementary skills 
 
 2. Validate your idea with customers
