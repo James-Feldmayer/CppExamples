@@ -1,16 +1,21 @@
 cmake_minimum_required(VERSION 3.0)
 
-set(CMAKE_CXX_COMPILER "/usr/bin/g++-11.1.0")
-set(CMAKE_CXX_STANDARD 20)
-
 project(test)
 
+set(CMAKE_CXX_COMPILER "/usr/bin/g++")
+set(CMAKE_CXX_STANDARD 20)
+
+set(CMAKE_PREFIX_PATH "/home/jamesf/Desktop/vcpkg/packages/")
+
+# static library
 find_package(range-v3 CONFIG REQUIRED)
 
-add_executable(window window.cpp) 
-
-target_link_libraries(window PRIVATE range-v3)
+# header-only library
+add_library(tl-expected INTERFACE)
+target_include_directories(tl-expected INTERFACE /home/jamesf/Desktop/vcpkg/packages/tl-expected_x64-linux/include/)
 
 add_executable(AOC2020_Day9 AOC2020_Day9.cpp) 
 
-target_link_libraries(AOC2020_Day9 PRIVATE range-v3)
+target_link_libraries(AOC2020_Day9 range-v3)
+
+target_link_libraries(AOC2020_Day9 tl-expected)

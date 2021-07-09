@@ -7,11 +7,17 @@
 
 #include <range/v3/all.hpp>
 
+#include <tl/expected.hpp>
+
 #include <array>
-#include <optional>
+#include <optional> // need to replace with expected
 #include <utility>
 #include <vector>
+#include <string>
 
+// what should I use as the right hand type in tl::expected?
+
+// should I use expected here also?
 auto read_file() -> std::vector<int> {
   std::ifstream inFile("./AOC2020_Day9.txt");
 
@@ -33,14 +39,16 @@ auto read_file() -> std::vector<int> {
   return file_data;
 }
 
-/*
-auto find_conti(std::vector<int> const &search, int const target) -> int {
+
+auto find_conti(std::vector<int> const &search, int const target) -> tl::expected<int, std::string> {
   for (int first = 0; first < search.size(); first++) {
     int length = 1;
+    
     auto total = [&]() -> int {
       return std::accumulate(search.begin() + first,
                              search.begin() + first + length, 0);
     };
+
     for (; first + length < search.size() && total() <= target; length++) {
       if (total() == target) {
         return *std::min_element(search.begin() + first,
@@ -50,10 +58,11 @@ auto find_conti(std::vector<int> const &search, int const target) -> int {
       }
     }
   }
-  return std::numeric_limits<int>::min();
+  
+  return tl::unexpected(std::string{"an error"});
 }
-*/
 
+/*
 template <typename R, auto lambda> struct fn_cache {
   R cache;
 
@@ -62,6 +71,7 @@ template <typename R, auto lambda> struct fn_cache {
     return this->cache;
   }
 };
+*/
 
 template <ranges::range Range>
 auto find_addend_pair(Range const &preamble, int const sum)
@@ -110,7 +120,7 @@ clean up the cmake stuff
 
 add auto push to git on save to keep it all backed up
 
-add tl::expected next
+add tests next
 */
 
 int main() {

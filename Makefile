@@ -65,16 +65,6 @@ CMAKE_BINARY_DIR = "/home/jamesf/Desktop/c++ practice/AOC2020_Day9"
 #=============================================================================
 # Targets provided globally by CMake.
 
-# Special rule for the target edit_cache
-edit_cache:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake cache editor..."
-	/usr/bin/ccmake -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
-.PHONY : edit_cache
-
-# Special rule for the target edit_cache
-edit_cache/fast: edit_cache
-.PHONY : edit_cache/fast
-
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
@@ -84,6 +74,16 @@ rebuild_cache:
 # Special rule for the target rebuild_cache
 rebuild_cache/fast: rebuild_cache
 .PHONY : rebuild_cache/fast
+
+# Special rule for the target edit_cache
+edit_cache:
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake cache editor..."
+	/usr/bin/ccmake -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+.PHONY : edit_cache
+
+# Special rule for the target edit_cache
+edit_cache/fast: edit_cache
+.PHONY : edit_cache/fast
 
 # The main all target
 all: cmake_check_build_system
@@ -129,19 +129,6 @@ AOC2020_Day9/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AOC2020_Day9.dir/build.make CMakeFiles/AOC2020_Day9.dir/build
 .PHONY : AOC2020_Day9/fast
 
-#=============================================================================
-# Target rules for targets named window
-
-# Build rule for target.
-window: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 window
-.PHONY : window
-
-# fast build rule for target.
-window/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/window.dir/build.make CMakeFiles/window.dir/build
-.PHONY : window/fast
-
 AOC2020_Day9.o: AOC2020_Day9.cpp.o
 .PHONY : AOC2020_Day9.o
 
@@ -166,30 +153,6 @@ AOC2020_Day9.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AOC2020_Day9.dir/build.make CMakeFiles/AOC2020_Day9.dir/AOC2020_Day9.cpp.s
 .PHONY : AOC2020_Day9.cpp.s
 
-window.o: window.cpp.o
-.PHONY : window.o
-
-# target to build an object file
-window.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/window.dir/build.make CMakeFiles/window.dir/window.cpp.o
-.PHONY : window.cpp.o
-
-window.i: window.cpp.i
-.PHONY : window.i
-
-# target to preprocess a source file
-window.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/window.dir/build.make CMakeFiles/window.dir/window.cpp.i
-.PHONY : window.cpp.i
-
-window.s: window.cpp.s
-.PHONY : window.s
-
-# target to generate assembly for a file
-window.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/window.dir/build.make CMakeFiles/window.dir/window.cpp.s
-.PHONY : window.cpp.s
-
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -199,13 +162,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... AOC2020_Day9"
-	@echo "... window"
 	@echo "... AOC2020_Day9.o"
 	@echo "... AOC2020_Day9.i"
 	@echo "... AOC2020_Day9.s"
-	@echo "... window.o"
-	@echo "... window.i"
-	@echo "... window.s"
 .PHONY : help
 
 

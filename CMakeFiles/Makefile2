@@ -64,7 +64,6 @@ CMAKE_BINARY_DIR = "/home/jamesf/Desktop/c++ practice/AOC2020_Day9"
 
 # The main recursive "all" target.
 all: CMakeFiles/AOC2020_Day9.dir/all
-all: CMakeFiles/window.dir/all
 .PHONY : all
 
 # The main recursive "preinstall" target.
@@ -73,7 +72,6 @@ preinstall:
 
 # The main recursive "clean" target.
 clean: CMakeFiles/AOC2020_Day9.dir/clean
-clean: CMakeFiles/window.dir/clean
 .PHONY : clean
 
 #=============================================================================
@@ -101,32 +99,6 @@ AOC2020_Day9: CMakeFiles/AOC2020_Day9.dir/rule
 CMakeFiles/AOC2020_Day9.dir/clean:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AOC2020_Day9.dir/build.make CMakeFiles/AOC2020_Day9.dir/clean
 .PHONY : CMakeFiles/AOC2020_Day9.dir/clean
-
-#=============================================================================
-# Target rules for target CMakeFiles/window.dir
-
-# All Build rule for target.
-CMakeFiles/window.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/window.dir/build.make CMakeFiles/window.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/window.dir/build.make CMakeFiles/window.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/jamesf/Desktop/c++ practice/AOC2020_Day9/CMakeFiles" --progress-num=3,4 "Built target window"
-.PHONY : CMakeFiles/window.dir/all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/window.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/jamesf/Desktop/c++ practice/AOC2020_Day9/CMakeFiles" 2
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/window.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/jamesf/Desktop/c++ practice/AOC2020_Day9/CMakeFiles" 0
-.PHONY : CMakeFiles/window.dir/rule
-
-# Convenience name for target.
-window: CMakeFiles/window.dir/rule
-.PHONY : window
-
-# clean rule for target.
-CMakeFiles/window.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/window.dir/build.make CMakeFiles/window.dir/clean
-.PHONY : CMakeFiles/window.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

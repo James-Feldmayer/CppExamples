@@ -73,15 +73,15 @@ CMakeFiles/AOC2020_Day9.dir/AOC2020_Day9.cpp.o: CMakeFiles/AOC2020_Day9.dir/flag
 CMakeFiles/AOC2020_Day9.dir/AOC2020_Day9.cpp.o: AOC2020_Day9.cpp
 CMakeFiles/AOC2020_Day9.dir/AOC2020_Day9.cpp.o: CMakeFiles/AOC2020_Day9.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/jamesf/Desktop/c++ practice/AOC2020_Day9/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/AOC2020_Day9.dir/AOC2020_Day9.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AOC2020_Day9.dir/AOC2020_Day9.cpp.o -MF CMakeFiles/AOC2020_Day9.dir/AOC2020_Day9.cpp.o.d -o CMakeFiles/AOC2020_Day9.dir/AOC2020_Day9.cpp.o -c "/home/jamesf/Desktop/c++ practice/AOC2020_Day9/AOC2020_Day9.cpp"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AOC2020_Day9.dir/AOC2020_Day9.cpp.o -MF CMakeFiles/AOC2020_Day9.dir/AOC2020_Day9.cpp.o.d -o CMakeFiles/AOC2020_Day9.dir/AOC2020_Day9.cpp.o -c "/home/jamesf/Desktop/c++ practice/AOC2020_Day9/AOC2020_Day9.cpp"
 
 CMakeFiles/AOC2020_Day9.dir/AOC2020_Day9.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AOC2020_Day9.dir/AOC2020_Day9.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/jamesf/Desktop/c++ practice/AOC2020_Day9/AOC2020_Day9.cpp" > CMakeFiles/AOC2020_Day9.dir/AOC2020_Day9.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/jamesf/Desktop/c++ practice/AOC2020_Day9/AOC2020_Day9.cpp" > CMakeFiles/AOC2020_Day9.dir/AOC2020_Day9.cpp.i
 
 CMakeFiles/AOC2020_Day9.dir/AOC2020_Day9.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AOC2020_Day9.dir/AOC2020_Day9.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/jamesf/Desktop/c++ practice/AOC2020_Day9/AOC2020_Day9.cpp" -o CMakeFiles/AOC2020_Day9.dir/AOC2020_Day9.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/jamesf/Desktop/c++ practice/AOC2020_Day9/AOC2020_Day9.cpp" -o CMakeFiles/AOC2020_Day9.dir/AOC2020_Day9.cpp.s
 
 # Object files for target AOC2020_Day9
 AOC2020_Day9_OBJECTS = \

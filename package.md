@@ -39,3 +39,16 @@ follow a tutorial
 https://juce.com/learn/tutorials
 
 which audio application should I try out?
+
+//
+
+git 
+
+https://github.com/commitizen/cz-cli
+
+clang format styles?
+
+homebrew
+husky
+
+

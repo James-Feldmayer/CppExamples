@@ -28,7 +28,7 @@ CMAKE_BUILD_TYPE:STRING=
 CMAKE_COLOR_MAKEFILE:BOOL=ON
 
 //CXX compiler
-CMAKE_CXX_COMPILER:FILEPATH=/usr/bin/c++
+CMAKE_CXX_COMPILER:STRING=/usr/bin/g++
 
 //A wrapper around 'ar' adding the appropriate '--plugin' option
 // for the GCC compiler
@@ -42,16 +42,16 @@ CMAKE_CXX_COMPILER_RANLIB:FILEPATH=/usr/bin/gcc-ranlib
 CMAKE_CXX_FLAGS:STRING=
 
 //Flags used by the CXX compiler during DEBUG builds.
-CMAKE_CXX_FLAGS_DEBUG:STRING=-g
+CMAKE_CXX_FLAGS_DEBUG:STRING=
 
 //Flags used by the CXX compiler during MINSIZEREL builds.
-CMAKE_CXX_FLAGS_MINSIZEREL:STRING=-Os -DNDEBUG
+CMAKE_CXX_FLAGS_MINSIZEREL:STRING=
 
 //Flags used by the CXX compiler during RELEASE builds.
-CMAKE_CXX_FLAGS_RELEASE:STRING=-O3 -DNDEBUG
+CMAKE_CXX_FLAGS_RELEASE:STRING=
 
 //Flags used by the CXX compiler during RELWITHDEBINFO builds.
-CMAKE_CXX_FLAGS_RELWITHDEBINFO:STRING=-O2 -g -DNDEBUG
+CMAKE_CXX_FLAGS_RELWITHDEBINFO:STRING=
 
 //C compiler
 CMAKE_C_COMPILER:FILEPATH=/usr/bin/cc
@@ -253,13 +253,22 @@ Z_VCPKG_CL:FILEPATH=Z_VCPKG_CL-NOTFOUND
 _VCPKG_INSTALLED_DIR:PATH=/home/jamesf/Desktop/vcpkg/installed
 
 //The directory containing a CMake configuration file for range-v3.
-range-v3_DIR:PATH=/home/jamesf/Desktop/vcpkg/installed/x64-linux/share/range-v3
+range-v3_DIR:PATH=/home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/share/range-v3
 
 //Value Computed by CMake
 test_BINARY_DIR:STATIC=/home/jamesf/Desktop/c++ practice/AOC2020_Day9
 
 //Value Computed by CMake
 test_SOURCE_DIR:STATIC=/home/jamesf/Desktop/c++ practice/AOC2020_Day9
+
+//The directory containing a CMake configuration file for tl-expected.
+tl-expected_DIR:PATH=/home/jamesf/Desktop/vcpkg/packages/tl-expected_x64-linux/share/cmake/tl-expected
+
+//The directory containing a CMake configuration file for tl/expected.hpp.
+tl/expected.hpp_DIR:PATH=tl/expected.hpp_DIR-NOTFOUND
+
+//The directory containing a CMake configuration file for tl/expected.
+tl/expected_DIR:PATH=tl/expected_DIR-NOTFOUND
 
 
 ########################
@@ -277,7 +286,7 @@ CMAKE_CACHE_MAJOR_VERSION:INTERNAL=3
 //Minor version of cmake used to create the current loaded cache
 CMAKE_CACHE_MINOR_VERSION:INTERNAL=20
 //Patch version of cmake used to create the current loaded cache
-CMAKE_CACHE_PATCH_VERSION:INTERNAL=3
+CMAKE_CACHE_PATCH_VERSION:INTERNAL=5
 //ADVANCED property for variable: CMAKE_COLOR_MAKEFILE
 CMAKE_COLOR_MAKEFILE-ADVANCED:INTERNAL=1
 //Path to CMake executable.
@@ -413,12 +422,6 @@ CMAKE_TOOLCHAIN_FILE-ADVANCED:INTERNAL=1
 CMAKE_UNAME:INTERNAL=/usr/bin/uname
 //ADVANCED property for variable: CMAKE_VERBOSE_MAKEFILE
 CMAKE_VERBOSE_MAKEFILE-ADVANCED:INTERNAL=1
-//Install the dependencies listed in your manifest:
-//\n    If this is off, you will have to manually install your dependencies.
-//\n    See https://github.com/microsoft/vcpkg/tree/master/docs/specifications/manifests.md
-// for more info.
-//\n
-VCPKG_MANIFEST_INSTALL:INTERNAL=OFF
 //ADVANCED property for variable: VCPKG_VERBOSE
 VCPKG_VERBOSE-ADVANCED:INTERNAL=1
 //Making sure VCPKG_MANIFEST_MODE doesn't change

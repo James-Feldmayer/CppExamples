@@ -196,41 +196,41 @@ CMakeFiles/AOC2020_Day9.dir/AOC2020_Day9.cpp.o
  /usr/include/c++/11.1.0/x86_64-pc-linux-gnu/bits/c++io.h
  /usr/include/c++/11.1.0/bits/fstream.tcc
  /usr/include/c++/11.1.0/iostream
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/all.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/action.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/action/action.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/meta/meta.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/all.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/action.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/action/action.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/meta/meta.hpp
  /usr/include/c++/11.1.0/cstddef
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/meta/meta_fwd.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/meta/meta_fwd.hpp
  /usr/include/c++/11.1.0/utility
  /usr/include/c++/11.1.0/bits/stl_relops.h
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/range_fwd.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/concepts/concepts.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/concepts/swap.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/range_fwd.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/concepts/concepts.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/concepts/swap.hpp
  /usr/include/c++/11.1.0/tuple
  /usr/include/c++/11.1.0/array
  /usr/include/c++/11.1.0/bits/uses_allocator.h
  /usr/include/c++/11.1.0/bits/invoke.h
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/concepts/type_traits.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/concepts/compare.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/compare.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/detail/config.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/concepts/type_traits.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/concepts/compare.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/compare.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/detail/config.hpp
  /usr/include/c++/11.1.0/version
  /usr/include/c++/11.1.0/cassert
  /usr/include/assert.h
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/utility/static_const.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/version.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/detail/prologue.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/detail/epilogue.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/action/concepts.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/range/concepts.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/utility/static_const.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/version.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/detail/prologue.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/detail/epilogue.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/action/concepts.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/range/concepts.hpp
  /usr/include/c++/11.1.0/span
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/functional/comparisons.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/iterator/concepts.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/functional/comparisons.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/iterator/concepts.hpp
  /usr/include/c++/11.1.0/iterator
  /usr/include/c++/11.1.0/bits/stream_iterator.h
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/functional/concepts.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/functional/invoke.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/functional/concepts.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/functional/invoke.hpp
  /usr/include/c++/11.1.0/functional
  /usr/include/c++/11.1.0/bits/refwrap.h
  /usr/include/c++/11.1.0/bits/std_function.h
@@ -246,9 +246,9 @@ CMakeFiles/AOC2020_Day9.dir/AOC2020_Day9.cpp.o
  /usr/include/c++/11.1.0/bits/stl_vector.h
  /usr/include/c++/11.1.0/bits/stl_bvector.h
  /usr/include/c++/11.1.0/bits/vector.tcc
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/functional/identity.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/iterator/access.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/std/detail/associated_types.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/functional/identity.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/iterator/access.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/std/detail/associated_types.hpp
  /usr/include/c++/11.1.0/climits
  /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include-fixed/limits.h
  /usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include-fixed/syslimits.h
@@ -259,16 +259,16 @@ CMakeFiles/AOC2020_Day9.dir/AOC2020_Day9.cpp.o
  /usr/include/bits/posix2_lim.h
  /usr/include/bits/xopen_lim.h
  /usr/include/bits/uio_lim.h
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/utility/move.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/utility/swap.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/iterator/traits.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/utility/common_type.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/range/access.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/utility/move.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/utility/swap.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/iterator/traits.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/utility/common_type.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/range/access.hpp
  /usr/include/c++/11.1.0/limits
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/iterator/reverse_iterator.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/iterator/basic_iterator.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/detail/range_access.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/utility/addressof.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/iterator/reverse_iterator.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/iterator/basic_iterator.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/detail/range_access.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/utility/addressof.hpp
  /usr/include/c++/11.1.0/memory
  /usr/include/c++/11.1.0/bits/stl_raw_storage_iter.h
  /usr/include/c++/11.1.0/bits/align.h
@@ -301,47 +301,47 @@ CMakeFiles/AOC2020_Day9.dir/AOC2020_Day9.cpp.o
  /usr/include/c++/11.1.0/bits/uses_allocator_args.h
  /usr/include/c++/11.1.0/pstl/glue_memory_defs.h
  /usr/include/c++/11.1.0/pstl/execution_defs.h
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/utility/box.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/utility/get.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/detail/adl_get.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/utility/semiregular_box.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/functional/reference_wrapper.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/utility/in_place.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/range/primitives.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/range/traits.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/functional/compose.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/functional/pipeable.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/action/adjacent_remove_if.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/action/erase.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/action/insert.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/max.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/iterator/common_iterator.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/detail/variant.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/utility/common_tuple.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/functional/bind.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/utility/tuple_algorithm.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/adjacent_remove_if.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/adjacent_find.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/range/dangling.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/move.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/result_types.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/functional/bind_back.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/action/drop.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/iterator/operations.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/action/drop_while.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/find_if_not.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/action/join.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/action/push_back.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/detail/with_braced_init_args.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/action/push_front.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/action/remove_if.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/remove_if.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/find_if.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/action/reverse.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/reverse.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/action/shuffle.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/shuffle.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/utility/random.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/utility/box.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/utility/get.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/detail/adl_get.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/utility/semiregular_box.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/functional/reference_wrapper.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/utility/in_place.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/range/primitives.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/range/traits.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/functional/compose.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/functional/pipeable.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/action/adjacent_remove_if.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/action/erase.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/action/insert.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/max.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/iterator/common_iterator.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/detail/variant.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/utility/common_tuple.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/functional/bind.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/utility/tuple_algorithm.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/adjacent_remove_if.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/adjacent_find.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/range/dangling.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/move.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/result_types.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/functional/bind_back.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/action/drop.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/iterator/operations.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/action/drop_while.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/find_if_not.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/action/join.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/action/push_back.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/detail/with_braced_init_args.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/action/push_front.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/action/remove_if.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/remove_if.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/find_if.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/action/reverse.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/reverse.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/action/shuffle.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/shuffle.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/utility/random.hpp
  /usr/include/c++/11.1.0/random
  /usr/include/c++/11.1.0/cmath
  /usr/include/math.h
@@ -373,201 +373,201 @@ CMakeFiles/AOC2020_Day9.dir/AOC2020_Day9.cpp.o
  /usr/include/c++/11.1.0/numeric
  /usr/include/c++/11.1.0/bits/stl_numeric.h
  /usr/include/c++/11.1.0/pstl/glue_numeric_defs.h
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/copy.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/utility/copy.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/generate.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/action/slice.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/interface.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/action/sort.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/sort.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/heap_algorithm.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/move_backward.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/partial_sort.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/action/split.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/range/conversion.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/split.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/mismatch.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/iterator/default_sentinel.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/all.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/ref.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/detail/satisfy_boost_range.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/subrange.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/iterator/unreachable_sentinel.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/view.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/single.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/utility/optional.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/facade.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/action/split_when.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/split_when.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/indirect.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/adaptor.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/utility/compressed_pair.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/iota.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/iterator/diffmax_t.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/delimit.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/take_while.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/functional/indirect.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/action/stable_sort.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/stable_sort.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/inplace_merge.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/lower_bound.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/aux_/lower_bound_n.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/aux_/partition_point_n.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/partition_point.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/merge.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/min.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/rotate.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/swap_ranges.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/upper_bound.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/aux_/upper_bound_n.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/functional/not_fn.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/iterator/move_iterators.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/utility/memory.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/utility/polymorphic_cast.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/action/stride.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/action/take.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/action/take_while.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/action/transform.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/transform.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/action/unique.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/unique.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/action/unstable_remove_if.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/unstable_remove_if.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/all_of.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/any_of.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/binary_search.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/contains.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/find.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/copy_backward.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/copy_if.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/copy_n.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/count.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/count_if.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/ends_with.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/equal.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/equal_range.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/aux_/equal_range_n.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/fill.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/fill_n.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/find_end.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/find_first_of.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/for_each.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/for_each_n.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/generate_n.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/is_partitioned.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/is_sorted.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/is_sorted_until.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/lexicographical_compare.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/max_element.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/min_element.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/minmax.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/minmax_element.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/none_of.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/nth_element.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/partial_sort_copy.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/partition.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/partition_copy.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/permutation.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/remove.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/remove_copy.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/remove_copy_if.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/replace.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/replace_copy.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/replace_copy_if.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/replace_if.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/reverse_copy.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/rotate_copy.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/sample.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/search.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/search_n.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/set_algorithm.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/stable_partition.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/starts_with.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/unique_copy.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/aux_/merge_n.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/aux_/merge_n_with_buffer.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/algorithm/aux_/sort_n_with_buffer.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/core.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/range/operations.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/range_for.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/getlines.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/istream.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/functional.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/functional/arithmetic.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/functional/on.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/functional/overload.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/iterator.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/iterator/counted_iterator.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/iterator/insert_iterators.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/iterator/stream_iterators.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/numeric.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/numeric/accumulate.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/numeric/adjacent_difference.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/numeric/inner_product.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/numeric/iota.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/numeric/partial_sum.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/range.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/utility.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/addressof.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/transform.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/adjacent_filter.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/adjacent_remove_if.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/any_view.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/c_str.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/cache1.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/cartesian_product.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/empty.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/chunk.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/take.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/common.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/concat.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/utility/variant.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/const.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/counted.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/cycle.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/drop.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/drop_exactly.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/drop_last.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/drop_while.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/enumerate.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/zip.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/zip_with.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/exclusive_scan.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/filter.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/remove_if.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/for_each.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/generate_n.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/generate.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/join.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/repeat_n.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/group_by.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/indices.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/intersperse.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/linear_distribute.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/map.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/move.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/partial_sum.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/remove.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/repeat.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/replace.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/replace_if.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/reverse.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/sample.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/set_algorithm.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/copy.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/utility/copy.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/generate.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/action/slice.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/interface.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/action/sort.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/sort.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/heap_algorithm.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/move_backward.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/partial_sort.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/action/split.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/range/conversion.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/split.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/mismatch.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/iterator/default_sentinel.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/all.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/ref.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/detail/satisfy_boost_range.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/subrange.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/iterator/unreachable_sentinel.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/view.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/single.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/utility/optional.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/facade.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/action/split_when.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/split_when.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/indirect.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/adaptor.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/utility/compressed_pair.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/iota.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/iterator/diffmax_t.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/delimit.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/take_while.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/functional/indirect.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/action/stable_sort.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/stable_sort.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/inplace_merge.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/lower_bound.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/aux_/lower_bound_n.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/aux_/partition_point_n.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/partition_point.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/merge.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/min.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/rotate.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/swap_ranges.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/upper_bound.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/aux_/upper_bound_n.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/functional/not_fn.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/iterator/move_iterators.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/utility/memory.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/utility/polymorphic_cast.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/action/stride.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/action/take.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/action/take_while.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/action/transform.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/transform.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/action/unique.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/unique.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/action/unstable_remove_if.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/unstable_remove_if.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/all_of.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/any_of.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/binary_search.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/contains.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/find.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/copy_backward.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/copy_if.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/copy_n.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/count.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/count_if.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/ends_with.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/equal.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/equal_range.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/aux_/equal_range_n.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/fill.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/fill_n.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/find_end.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/find_first_of.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/for_each.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/for_each_n.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/generate_n.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/is_partitioned.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/is_sorted.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/is_sorted_until.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/lexicographical_compare.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/max_element.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/min_element.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/minmax.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/minmax_element.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/none_of.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/nth_element.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/partial_sort_copy.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/partition.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/partition_copy.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/permutation.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/remove.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/remove_copy.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/remove_copy_if.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/replace.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/replace_copy.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/replace_copy_if.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/replace_if.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/reverse_copy.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/rotate_copy.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/sample.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/search.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/search_n.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/set_algorithm.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/stable_partition.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/starts_with.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/unique_copy.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/aux_/merge_n.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/aux_/merge_n_with_buffer.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/algorithm/aux_/sort_n_with_buffer.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/core.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/range/operations.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/range_for.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/getlines.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/istream.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/functional.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/functional/arithmetic.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/functional/on.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/functional/overload.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/iterator.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/iterator/counted_iterator.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/iterator/insert_iterators.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/iterator/stream_iterators.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/numeric.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/numeric/accumulate.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/numeric/adjacent_difference.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/numeric/inner_product.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/numeric/iota.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/numeric/partial_sum.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/range.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/utility.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/addressof.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/transform.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/adjacent_filter.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/adjacent_remove_if.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/any_view.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/c_str.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/cache1.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/cartesian_product.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/empty.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/chunk.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/take.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/common.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/concat.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/utility/variant.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/const.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/counted.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/cycle.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/drop.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/drop_exactly.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/drop_last.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/drop_while.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/enumerate.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/zip.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/zip_with.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/exclusive_scan.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/filter.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/remove_if.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/for_each.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/generate_n.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/generate.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/join.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/repeat_n.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/group_by.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/indices.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/intersperse.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/linear_distribute.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/map.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/move.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/partial_sum.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/remove.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/repeat.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/replace.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/replace_if.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/reverse.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/sample.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/set_algorithm.hpp
  /usr/include/c++/11.1.0/algorithm
  /usr/include/c++/11.1.0/bits/ranges_algo.h
  /usr/include/c++/11.1.0/bits/ranges_util.h
  /usr/include/c++/11.1.0/pstl/glue_algorithm_defs.h
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/slice.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/sliding.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/span.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/stride.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/tail.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/take_exactly.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/take_last.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/tokenize.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/slice.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/sliding.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/span.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/stride.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/tail.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/take_exactly.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/take_last.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/tokenize.hpp
  /usr/include/c++/11.1.0/regex
  /usr/include/c++/11.1.0/bitset
  /usr/include/c++/11.1.0/locale
@@ -604,9 +604,10 @@ CMakeFiles/AOC2020_Day9.dir/AOC2020_Day9.cpp.o
  /usr/include/c++/11.1.0/bits/regex.tcc
  /usr/include/c++/11.1.0/bits/regex_executor.h
  /usr/include/c++/11.1.0/bits/regex_executor.tcc
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/trim.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/unbounded.hpp
- /home/jamesf/Desktop/vcpkg/installed/x64-linux/include/range/v3/view/unique.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/trim.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/unbounded.hpp
+ /home/jamesf/Desktop/vcpkg/packages/range-v3_x64-linux/include/range/v3/view/unique.hpp
+ /home/jamesf/Desktop/vcpkg/packages/tl-expected_x64-linux/include/tl/expected.hpp
  /usr/include/c++/11.1.0/optional
  /usr/include/c++/11.1.0/bits/enable_special_members.h
 
